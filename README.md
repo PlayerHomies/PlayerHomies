@@ -1,16 +1,27 @@
-## Hi there 👋
+Yazılım ve Teknik Destek
 
-<!--
-**PlayerHomies/PlayerHomies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Her türlü yazılımsal ve donanımsal teknik destek
 
-Here are some ideas to get you started:
+Office yazılımları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programlama Dilleri ve Geliştirme
+
+Python ile backdoor yazılım geliştirme
+
+C# Nesne Tabanlı Programlama ile backdoor yazılım geliştirme
+
+HTML, CSS, JavaScript, Visual Studio Code ile MVC site tasarımı
+
+Lua Script
+
+PHP (Başlangıç Düzey)
+
+Oyun ve Grafik Tasarım
+
+Unity 3D (Giriş seviyesi)
+
+Adobe Photoshop, After Effects (İleri Düzey)
+
+Veri Tabanı
+
+Veri Tabanı İşlemleri
